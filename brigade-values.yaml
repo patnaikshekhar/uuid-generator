@@ -58,6 +58,7 @@ kashti:
 # For full configuration, see the brigade-github-app chart in this repository
 brigade-github-app:
   enabled: true
+  appID: 33363
   github:
     key: |
       -----BEGIN RSA PRIVATE KEY-----
